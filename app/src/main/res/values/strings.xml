@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="oncreate_text">onCreate():</string>
+    <string name="onstart_text">onStart():</string>
+    <string name="onresume_text">onResume():</string>
+    <string name="onpause_text">onPause():</string>
+    <string name="onstop_text">onStop():</string>
+    <string name="onrestart_text">onRestart():</string>
+    <string name="ondestroy_text">onDestroy():</string>
+</resources>
